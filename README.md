@@ -12,7 +12,7 @@ More information can be found in the thesis paper itself named [thesis_paper.pdf
 
 [API Token Authorization](#api-token-authorization)
 
-[Testing](#testing)
+[Walkthrough](#walkthrough)
 
 - [Phoenix Suns](#phoenix-suns)
 - [Los Angeles Lakers](#los-angeles-lakers)
