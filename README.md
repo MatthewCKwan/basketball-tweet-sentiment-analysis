@@ -85,7 +85,7 @@ The project involved running two hypothesis tests, two ANOVA tests, and one corr
 
 **# of Tweets:** 30000
 
-**Search String Parameter:** suns
+**Search String Parameter:** `suns`
 
 This code block shows pulling down and cleaning a random sample of 1000 tweets from the day of a Suns' high-scoring game against the Oklahoma City Thunder during the 2020-21 season:
 
@@ -158,7 +158,7 @@ Box Plot:
 
 **# of Tweets:** 30000
 
-**Search String Parameter:** lakers
+**Search String Parameter:** `lakers`
 
 This code block shows pulling down and cleaning a random sample of 1000 tweets from the day of a Lakers' game won against the Minnesota Timberwolves during the 2020-21 season:
 
@@ -231,7 +231,7 @@ Box Plot:
 
 **# of Tweets:** 30000
 
-**Search String Parameter:** @PelicansNBA
+**Search String Parameter:** `@PelicansNBA`
 
 This code block shows pulling down and cleaning a random sample of 1000 tweets from the day of a Pelicans' game won on the road against the Golden State Warriors during the 2019-20 season:
 
@@ -313,7 +313,7 @@ Box Plot:
 
 **# of Tweets:** 30000
 
-**Search String Parameter:** knicks
+**Search String Parameter:** `knicks`
 
 This code block shows pulling down and cleaning a random sample of 1000 tweets from the day of the Knicks' first home game of the 2018-19 season to store the mean sentiment value of that sample:
 
