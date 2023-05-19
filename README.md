@@ -5,7 +5,7 @@ Social Media in Basketball is my undergraduate thesis project that measures NBA 
 
 Please note that this project neither represents nor speaks on behalf of the NBA, Twitter, nor any of the organizations and people affiliated with the data analyzed. This project simply represents the metaphorical blood, sweat, and tears of a third-year college student who was hungry to create a project that explored his passions including basketball, data, and analytics as their honors thesis.
 
-More information can be found in the thesis paper itself named *thesis_paper.pdf* which you can download from the repository.
+More information can be found in the thesis paper itself named [thesis_paper.pdf](https://github.com/MatthewCKwan/basketball-tweet-sentiment-analysis/blob/main/thesis_paper.pdf) which you can access within the repository.
 ## Table of Contents
 
 [Installation](#installation)
