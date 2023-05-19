@@ -71,7 +71,7 @@ After successfully submitting an application and gaining approval for standard A
 ```
 
 Please note that Twitter has updated its Twitter API platform within the last year of writing this so be aware that the authorization methods listed above may be outdated.
-## Testing
+## Walkthrough
 
 The project involved running two hypothesis tests, two ANOVA tests, and one correlation test in total focusing on the Phoenix Suns, Los Angeles Lakers, New Orleans Pelicans, and New York Knicks.
 
