@@ -21,7 +21,7 @@ More information can be found in the thesis paper itself named *thesis_paper.pdf
 
 [Tweet Word Art](#tweet-word-art)
 
-[Links to Interactive Word Art](#links-to-interactive-word-art)
+[Interactive Tweet Word Art](#interactive-tweet-word-art)
 
 [Author](#author)
 ## Installation
@@ -497,7 +497,9 @@ Here is the art for those two hashtag phrases:
 <img src="rally_the_valley.png">
 <img src="lake_show.png">
 
-## Links to Interactive Tweet Word Art
+## Interactive Tweet Word Art
+
+Links to interactive versions of the tweet word art on [WordArt.com](https://wordart.com/) labeled by search string.
 
 - [@KingJames](https://wordart.com/rg1hr3g5r3e6/kingjames)
 - [#RallyTheValley](https://wordart.com/melaj27w520l/ralleythevalley)
