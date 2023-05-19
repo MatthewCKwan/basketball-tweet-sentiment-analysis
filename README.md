@@ -21,6 +21,8 @@ More information can be found in the thesis paper itself named *thesis_paper.pdf
 
 [Tweet Word Art](#tweet-word-art)
 
+[Links to Interactive Word Art](#links-to-interactive-word-art)
+
 [Author](#author)
 ## Installation
 
@@ -74,6 +76,8 @@ Please note that Twitter has updated its Twitter API platform within the last ye
 The project involved running two hypothesis tests, two ANOVA tests, and one correlation test in total focusing on the Phoenix Suns, Los Angeles Lakers, New Orleans Pelicans, and New York Knicks.
 
 ### Phoenix Suns
+
+<img src="suns_logo.png">
 
 **Hypothesis:** Playing with more offensive prowess measured from having a high-scoring game will increase Twitter fan sentiment versus having a low-scoring game.
 
@@ -140,7 +144,13 @@ plot_ly(
 )
 ```
 
+Box Plot:
+
+<img src="suns_box_plot.png">
+
 ### Los Angeles Lakers
+
+<img src="lakers_logo.png" width=475px>
 
 **Hypothesis:** Achieving game victory measured from accruing game wins will increase Twitter fan sentiment versus accruing game losses.
 
@@ -207,7 +217,13 @@ plot_ly(
 )
 ```
 
+Box Plot:
+
+<img src="lakers_box_plot.png">
+
 ### New Orleans Pelicans
+
+<img src="pelicans_logo.png" width=475px>
 
 **Hypothesis:** The effect of a team winning at home versus away on the road during the regular season on Twitter fan sentiment will differ between these two locations where a game is won.
 
@@ -283,7 +299,13 @@ plot_ly(
 )
 ```
 
+Box Plot:
+
+<img src="pelicans_first_anova_box_plot.png">
+
 ### New York Knicks
+
+<img src="knicks_logo.png" width=475px>
 
 **Hypothesis:** There will be a positive correlation between Twitter fan sentiment and game attendance.
 
@@ -411,11 +433,16 @@ hc_sp_2 <- hchart(
 
 hc_sp_2
 ```
+
+Scatter Plot:
+
+<img src="knicks_scatter_plot.png">
+
 ## Tweet Word Art
 
-The data collection behind creating the following tweet word art used the Twitter API v1.1 instead of v2. WordArt.com was used to create the following three visuals once the data was uploaded to the site in the form of a CSV file per visual.
+The data collection behind creating the following tweet word art used the Twitter API v1.1 instead of v2. [WordArt.com](https://wordart.com/) was used to create the following three visuals once the data was uploaded to the site in the form of a CSV file per visual.
 
-This code block shows the collection and cleaning of words from tweets regarding LeBron James using the search string *@KingJames* which is James' Twitter handle:
+This code block shows the collection and cleaning of words from tweets that are saved to a CSV file regarding LeBron James using the search string *@KingJames* which is James' Twitter handle:
 
 ```r
 ### Search String: @KingJames
@@ -459,9 +486,23 @@ write.csv(dtm, "C:\\Users\\INSERT_DIRECTORY_NAME\\
 
 Here is the before and after of the LeBron James' tweet word art:
 
+<img src="lebron.png" width="800px">
+<img src="lebron_word_art.png" width="700px">
+
+
 I followed an identical method for the Phoenix Suns and Los Angeles Lakers where I passed in their hashtag phrases: *#RallyTheValley* and *#LakeShow*, respectively.
 
 Here is the art for those two hashtag phrases:
+
+<img src="rally_the_valley.png">
+<img src="lake_show.png">
+
+## Links to Interactive Tweet Word Art
+
+- [@KingJames](https://wordart.com/rg1hr3g5r3e6/kingjames)
+- [#RallyTheValley](https://wordart.com/melaj27w520l/ralleythevalley)
+- [#LakeShow](https://wordart.com/lzcmbtfl2k23/lakeshow)
+
 ## Author
 
 - [Matthew Kwan](https://www.linkedin.com/in/matthew-kwan/)
