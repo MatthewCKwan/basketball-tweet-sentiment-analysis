@@ -442,7 +442,7 @@ Scatter Plot:
 
 The data collection behind creating the following tweet word art used the Twitter API v1.1 instead of v2. [WordArt.com](https://wordart.com/) was used to create the following three visuals once the data was uploaded to the site in the form of a CSV file per visual.
 
-This code block shows the collection and cleaning of words from tweets that are saved to a CSV file regarding LeBron James using the search string *@KingJames* which is James' Twitter handle:
+This code block shows the collection and cleaning of words from tweets that are saved to a CSV file regarding LeBron James using the search string `@KingJames` which is James' Twitter handle:
 
 ```r
   ### Search String: @KingJames
@@ -490,7 +490,7 @@ Here is the before and after of the LeBron James' tweet word art:
 <img src="lebron_word_art.png" width="700px">
 
 
-I followed an identical method for the Phoenix Suns and Los Angeles Lakers where I passed in their hashtag phrases: *#RallyTheValley* and *#LakeShow*, respectively.
+I followed an identical method for the Phoenix Suns and Los Angeles Lakers where I passed in their hashtag phrases: `#RallyTheValley` and `#LakeShow`, respectively.
 
 Here is the art for those two hashtag phrases:
 
